@@ -1,0 +1,2 @@
+# BaseActivity
+简介的BaseActivity写法，以及BaseActivity的简单使用
